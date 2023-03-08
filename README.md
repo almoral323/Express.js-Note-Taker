@@ -1,6 +1,6 @@
 ## Note Taker
 
-[Deployed Application]("/")
+[Deployed Application]("https://almoral323-express-note-taker.herokuapp.com/")
 
 ## Contents
 
